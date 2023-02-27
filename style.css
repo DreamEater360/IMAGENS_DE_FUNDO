@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.quadrado {
+    display: inline-block;
+    border: 1px solid black;
+    margin: 5px;
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    background-color: rgb(54, 53, 53);
+}
+
+#q1 {
+    background-image: url('wallpaper001.jpg');
+}
+
+#q2 {
+    background-repeat: ;
+}
+
+#q3 {
+
+}
