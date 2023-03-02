@@ -5,6 +5,14 @@
     padding: 0px;
 }
 
+body {
+    background-image: url(wallpaper002.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background
+}
+
 .quadrado {
     display: inline-block;
     border: 1px solid black;
@@ -26,5 +34,19 @@
 
 #q3 {
     background-position: right bott;
+}
+
+.texto {
+    margin: 20px 300px 20px 300px;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: justify;
+    text-indent: 20px;
+    background-color: white;
+    max-width: 600px;
+    min-height: 1500px;
+}
+.texto h1 {
+    text-align: center;
 }
 
